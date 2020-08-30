@@ -3,7 +3,7 @@
 I'm a software engineer passionate about making user-friendly and interesting apps on the iOS platform. I enjoy working with Flutter too.
 
 - 🔭 I’m currently working on Flutter :iphone:
-- 🌱 I’m currently learning MapKit and CoreLocation.
+- 🌱 I’m currently learning Notifications in iOS and watchOS.
 - 👯 I’m looking to collaborate on open source iOS projects.
 - 💬 Ask me about iOS development
 - 📫 How to reach me: <nazaifmoid@gmail.com>
