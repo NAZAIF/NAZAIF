@@ -1,6 +1,6 @@
 ### Hi, I'm Moideen Nazaif 👋 :man_technologist:
 
-I'm a MBA student specialized in Business Analytics.
+I'm a MBA student specialized in **Business Analytics**.
 
 - 🔭 I’m currently working on **Power BI, Tableau and Alteryx**.
 - 🌱 I’m currently learning Descriptive and Predictive Analytics
