@@ -1,11 +1,11 @@
 ### Hi, I'm Moideen Nazaif 👋 :man_technologist:
 
-I'm a software engineer passionate about making user-friendly and interesting apps on the iOS platform. I enjoy working with Flutter too.
+I'm a MBA student specialized in Business Analytics.
 
-- 🔭 I’m currently working on Flutter :iphone:
-- 🌱 I’m currently learning Notifications in iOS and watchOS.
-- 👯 I’m looking to collaborate on open source iOS projects.
-- 💬 Ask me about iOS development
+- 🔭 I’m currently working on **Power BI, Tableau and Alteryx**.
+- 🌱 I’m currently learning Descriptive and Predictive Analytics
+- 👯 I’m looking to collaborate on open source Data Visualization projects.
+- 💬 Ask me about Business Intelligence.
 - 📫 How to reach me: <nazaifmoid@gmail.com>
 - 😄 Pronouns: He/His
 
